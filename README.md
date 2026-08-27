@@ -1,4 +1,4 @@
-# Hey, I'm Devipriya 👋
+# Hey, I'm Devipriya 
 
 Third-year AIML student who likes making machine learning explainable, not just accurate. Currently deep into research, UI/UX, and data storytelling.
 
@@ -7,7 +7,7 @@ Third-year AIML student who likes making machine learning explainable, not just 
 - 🎨 Practicing UI/UX design — wireframing, prototyping, and usability testing on real-world app redesigns
 - 📊 Exploring predictive modeling and business analytics through simulated data science case studies
 
-### 🌱 Currently exploring
+### Currently exploring
 - NLP applications like hallucination detection and zero-shot text scoring
 - Making ML models interpretable for non-technical stakeholders
 
