@@ -30,7 +30,7 @@ Third-year AIML student who likes making machine learning explainable, not just 
 ![GitHub Streak](https://streak-stats.demolab.com?user=devipriyakgk-hash&theme=tokyonight&hide_border=true)
 
 ### 📫 Reach me
-[LinkedIn](#) · [Email](#) · [Portfolio](#)
+[LinkedIn](www.linkedin.com/in/devipriya-gopalakrishnan-557240330) · [Email](devipriya.kgk@gmail.com) 
 
 ---
 ⭐ *Open to research collaborations, especially around explainable AI and NLP.*
