@@ -11,7 +11,7 @@ Third-year AIML student who likes making machine learning explainable, not just 
 - NLP applications like hallucination detection and zero-shot text scoring
 - Making ML models interpretable for non-technical stakeholders
 
-### 🛠️ Tech I use
+### Tech I use
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -29,7 +29,7 @@ Third-year AIML student who likes making machine learning explainable, not just 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devipriyakgk-hash&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=devipriyakgk-hash&theme=tokyonight&hide_border=true)
 
-### 📫 Reach me
+### Reach me
 [LinkedIn](www.linkedin.com/in/devipriya-gopalakrishnan-557240330) · [Email](devipriya.kgk@gmail.com) 
 
 ---
