@@ -20,7 +20,7 @@ Third-year AIML student who likes making machine learning explainable, not just 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### 📌 A few things I've built
-- **XAI-PhishGuard** — Phishing detection using an explainable SHAP–LIME stacking ensemble
+- **XAI-PhishLens** — Phishing detection using an explainable SHAP–LIME stacking ensemble
 - **ExpenseWise** — Budgeting app wireframes and interactive prototype
 - **IRCTC Redesign** — UX case study reimagining a real-world booking flow
 
