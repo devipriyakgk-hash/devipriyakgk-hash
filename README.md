@@ -20,9 +20,10 @@ Third-year AIML student who likes making machine learning explainable, not just 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### 📌 A few things I've built
-- **XAI-PhishLens** — Phishing detection using an explainable SHAP–LIME stacking ensemble
-- **ExpenseWise** — Budgeting app wireframes and interactive prototype
-- **IRCTC Redesign** — UX case study reimagining a real-world booking flow
+- **[XAI-PhishGuard](https://github.com/devipriyakgk-hash/xai-phishguard)** — Phishing detection using a SHAP/LIME-explainable stacking ensemble, with real trained-model results
+- **[FactCheck-Lite](https://github.com/devipriyakgk-hash/hallucination-checker)** — NLI-based hallucination checker with a Streamlit UI
+- **[ExpenseWise](https://expensewise-prototype.vercel.app/)** — Interactive React prototype with real state, transitions, and validation ([code](https://github.com/devipriyakgk-hash/expensewise-prototype))
+- **[IRCTC Redesign](https://devipriyakgk-hash.github.io/irctc-redesign/)** — High-fidelity, coded redesign concept following a heuristic evaluation ([code](https://github.com/devipriyakgk-hash/irctc-redesign))
 
 ### 📈 GitHub Stats
 ![Devipriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=devipriyakgk-hash&show_icons=true&theme=tokyonight&hide_border=true)
